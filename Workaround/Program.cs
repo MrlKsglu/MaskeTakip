@@ -31,9 +31,9 @@ namespace Workround
 
             Person person1 = new Person();
             person1.FirstName = "Meral";
-            person1.LastName = "Köseoğlu";
+            person1.LastName = "K";
             person1.DateOfBirthYear = 1991;
-            person1.NationalIdentity = 34612942472;
+            person1.NationalIdentity = 12345;
 
 
             Person person2 = new Person();
